@@ -9,6 +9,7 @@
   * Description: Custome Login and dasboard to my own style
   * Version: 1.0.0
   * Author: HUL VISETH
+  * GitHub Plugin URI: https://github.com/visethhul/wpDolphintekLogin
   */
   
  if (!defined('ABSPATH')) {
