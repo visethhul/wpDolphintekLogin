@@ -1,0 +1,86 @@
+/*style for the custom dashboard widget*/
+#dashbard_primary {
+  display: none;
+}
+
+.e-overview__feed {
+  display: none;
+}
+
+.page-const a {
+ margin-left: 100px;
+}
+#wp-optimize-dashnotice {
+  display: none;
+}
+#wp_mail_smtp_reports_widget_lite {
+ display: none;
+}
+#dashboard_site_health{
+ display: none;
+}
+#wp_version {
+ font-size: 16px;
+}
+#custom_dashboard_wet {
+            width: 1380px !important;
+}
+.add-dashboard {
+  display: flex;
+  justify-content: space-around;
+}
+.img img {
+ width: 100px;
+}
+.item1 {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+  padding: 20px;
+  box-shadow: 0 0 6px black;
+  width: 280px;
+}
+
+.item1 h3{
+ font-weight: bold !important;
+ font-size: 20px;
+}
+
+.hndle {
+ font-size: 20px !important;
+}
+
+.dolphin-contant {
+ display: flex;
+ gap: 0 20px;
+ padding: 0 10px;
+ margin-top: 20px;
+
+}
+hr {
+  height: 2px;
+  background: #000;
+  margin-top: 20px;
+}
+.dolphin {
+width: 50%;
+}
+.dolphin h1 {
+ font: 20px;
+ font-weight: 600 !important;
+}
+
+.flex-social {
+ display: flex;
+ align-items: center;
+ gap: 0 5px;
+ margin-top: -10px;
+}
+.flex-social div {
+ font-size: 20px;
+}
+.flex-social div img {
+  width: 15px;
+}

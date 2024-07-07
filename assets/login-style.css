@@ -1,0 +1,40 @@
+/*style for the login page*/
+.login h1 a {
+ background-repeat: no-repeat;
+ background-image: url(https://png.pngtree.com/png-vector/20220427/ourmid/pngtree-vector-login-icon-login-design-shadow-vector-png-image_13266424.png);
+ background-position: center center;
+ background-size: contain !important;
+ width: 100% !important;
+ margin-top: -50px;
+}
+
+.login{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+ flex-direction: column;
+}
+
+.wp-login-lost-password, 
+#backtoblog a{
+  color:#fff !important;          
+}
+
+.language-switcher{
+ position: relative;
+ top: -20px;
+}
+
+#login {
+ background: #103888;
+ border-radius: 20px;
+ width: 500px !important;
+}
+
+#loginform {
+ font-size: 20px;
+ font-weight: bold;
+ color: #fff;
+ border:none;
+ background: transparent;
+}
